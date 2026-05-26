@@ -6,12 +6,7 @@ An interactive Power BI dashboard designed to analyze and visualize electric veh
 
 ## 📷 Dashboard Preview
 
-*(Drop your dashboard screenshot or GIF here)*
-
-```
-[Insert Dashboard Image/GIF Here]
-
-```
+![EV Dashboard Screenshot](EV Dashboard.jpeg)
 
 ---
 
